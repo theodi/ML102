@@ -1,0 +1,13 @@
+Input:../samples/square_dave_tarrant_grs_7908_square_mono_400px.jpg
+Input full path:/home/ubuntu/OpenFace-master/samples/square_dave_tarrant_grs_7908_square_mono_400px.jpg
+Camera parameters:273.438,273.438,150,150
+Output HOG:square_dave_tarrant_grs_7908_square_mono_400px.hog
+Output image:square_dave_tarrant_grs_7908_square_mono_400px.jpg
+Output aligned directory:square_dave_tarrant_grs_7908_square_mono_400px_aligned
+Output csv:square_dave_tarrant_grs_7908_square_mono_400px.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
